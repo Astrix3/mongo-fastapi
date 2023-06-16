@@ -19,5 +19,5 @@ included:
     2.2. Endpoint to get the course overview.
     2.3. Endpoint to get specific chapter information.
     2.4. Endpoint to allow users to rate each chapter (positive/negative), while aggregating all ratings
-for each course.
+    for each course.
 3. Tests for all created endpoints to validate that they are working as intended.
