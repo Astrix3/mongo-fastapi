@@ -48,6 +48,8 @@ To setup docker follow the steps shown [here](https://docs.docker.com/engine/ins
 ## Solutions:
 Before we begin to test the module, Let's setup the module. Follow the below given steps to setup the repo.
 _Update .env file with required parameters_
+
+
 _Note: Make sure to install Python (3.9), MongoDB and Docker._
 
 1. Clone the repo: ```git clone git@github.com:Astrix3/mongo-fastapi.git```
